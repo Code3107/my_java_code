@@ -16,7 +16,7 @@ public class BiggestAmongThree {
                 System.out.println(c +" is the Biggest");
             }
             else{
-                System.out.println("Either all are equal or the input is wrong.");
+                System.out.println("enter valid numbers");
             }
         }
     }
